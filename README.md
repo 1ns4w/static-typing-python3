@@ -1,6 +1,6 @@
 # static-typing-python
 
-Follow the instructions below using your terminal to ensure the examples run as expected.
+Run the following instructions in your terminal to ensure the examples run as expected.
 
 ## 1. Create a virtual enviroment 
 On windows:
@@ -35,4 +35,16 @@ source ./my-first-venv/bin/activate
 
 ```
 pip install -r requirements.txt
+```
+
+## 5. Try mypy
+
+Run any of the samples and make sure to use static typing from now on!
+```
+
+mypy first_example.py
+```
+
+```
+mypy second_example.py
 ```
