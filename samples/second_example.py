@@ -9,5 +9,5 @@ def sumTwoNumbers(n1: float, n2: float) -> float:
 If we would run this program, Python would
 concatenate the given arguments again, but...
 """
-result: float = sumTwoNumbers(1,1)
+result: float = sumTwoNumbers("Hello ", "World!")
 print(result)
