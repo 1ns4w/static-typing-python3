@@ -1,6 +1,6 @@
 ## 4. Run mypy
 
-Look for errors in the second example without running it:
+Look for errors in the second example without executing it:
 
 ```
 mypy ./samples/second_example.py
