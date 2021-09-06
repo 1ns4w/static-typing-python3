@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## 4. Run mypy
 
-Use mypy to look for errors in your files without having to run them:
+Look for errors in the examples without running them:
 ```
 mypy ./samples/first_example.py
 ```
