@@ -13,13 +13,7 @@ On Unix, GNU/Linux and MacOS:
 python3 -m venv my-first-venv
 ```
 
-## 2. Create a .gitignore file and add your virtual enviroment to it
-
-```
-echo /venv > .gitignore
-```   
-
-## 3. Activate your virtual enviroment
+## 2. Activate your virtual enviroment
 
 On Windows run:
 ```
@@ -31,13 +25,13 @@ On Unix or MacOS run:
 source ./my-first-venv/bin/activate
 ```
 
-## 4. Install the required dependencies
+## 3. Install the required dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-## 5. Try mypy
+## 4. Try mypy
 
 Run any of the samples and make sure to use static typing from now on!
 ```
