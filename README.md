@@ -1,4 +1,4 @@
-# static-typing-python
+# Getting started with mypy
 
 Run the following instructions in your terminal to ensure the examples run as expected.
 
