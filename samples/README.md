@@ -1,4 +1,4 @@
-## Run mypy
+## 4. Run mypy
 
 Look for errors in the examples without running them:
 ```
