@@ -41,9 +41,9 @@ pip install -r requirements.txt
 
 Run any of the samples and make sure to use static typing from now on!
 ```
-mypy first_example.py
+mypy ./samples/first_example.py
 ```
 
 ```
-mypy second_example.py
+mypy ./samples/second_example.py
 ```
