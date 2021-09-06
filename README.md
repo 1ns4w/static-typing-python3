@@ -31,9 +31,9 @@ source ./my-first-venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 4. Try mypy
+## 4. Run mypy
 
-Run any of the samples and make sure to use static typing from now on!
+Use mypy to look for errors in your files without having to run them:
 ```
 mypy ./samples/first_example.py
 ```
