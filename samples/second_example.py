@@ -9,5 +9,5 @@ def sumTwoNumbers(n1: float, n2: float) -> float:
 If we would run this program, Python would
 concatenate the given arguments again, but...
 """
-result: float = sumTwoNumbers("Hello ", "World!")
+result: float = sumTwoNumbers("Hello ", "World!") # mypy will detect this error so you can correct it
 print(result)
