@@ -15,12 +15,6 @@ python3 -m venv my-first-venv
 
 ## 2. Create a .gitignore file and add your virtual enviroment relative path to it 
 
-On Windows:
-```
-echo "/venv" > .gitignore
-```
-
-On Unix, GNU/Linux and MacOS:
 ```
 echo /venv > .gitignore
 ```   
