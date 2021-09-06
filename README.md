@@ -41,3 +41,6 @@ mypy ./samples/first_example.py
 ```
 mypy ./samples/second_example.py
 ```
+
+## 5. Read the documentation
+For further research, make sure to read the [Mypy Docs](https://mypy.readthedocs.io/en/stable/introduction.html).
