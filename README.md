@@ -17,12 +17,12 @@ python3 -m venv my-first-venv
 
 On Windows:
 ```
-echo "" > .gitignore
+echo "/venv" > .gitignore
 ```
 
 On Unix, GNU/Linux and MacOS:
 ```
-touch .gitignore
+echo /venv > .gitignore
 ```   
 
 ## 3. Activate your virtual enviroment
