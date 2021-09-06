@@ -6,8 +6,8 @@ def sumTwoNumbers(n1: float, n2: float) -> float:
     return n1 + n2
 
 """
-If we would run this program, Python would
-concatenate the given arguments again, but...
+Now that we have included data types, let's check
+if our program would run as we expect using mypy.
 """
-result: float = sumTwoNumbers("Hello ", "World!") # mypy will detect this error so you can correct it
+result: float =  sumTwoNumbers("Hello, ", "World!") # mypy will idenitify and report this error
 print(result)
