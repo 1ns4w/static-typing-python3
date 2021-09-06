@@ -6,9 +6,7 @@ def sumTwoNumbers(n1, n2):
 
 """
 Concatenates the given arguments, which is
-syntactically correct, so there won't be
-any error and we will receive an ouput, but
-sumTwoNumbers isn't supposed to behave so.
+not sumTwoNumbers expected behavior.
 """
 result = sumTwoNumbers("Hello, ", "World!")
 print(result) # prints Hello, World!
