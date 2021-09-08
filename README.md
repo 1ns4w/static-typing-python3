@@ -31,9 +31,9 @@ source ./my-first-venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 4. Run mypy
+## 4. Use Mypy
 
-Look for errors in the second example without executing it:
+Look for errors in the file where we have included data types without executing it:
 
 ```
 mypy ./samples/second_example.py
