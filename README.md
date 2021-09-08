@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## 4. Use Mypy
 
-Look for errors in the file where we have included data types without executing it:
+Look for errors in the file where we used data types without executing it:
 
 ```
 mypy ./samples/second_example.py
