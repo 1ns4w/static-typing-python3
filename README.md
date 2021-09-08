@@ -20,7 +20,7 @@ On Windows run:
 .\venv\Scripts\activate
 ```
 
-On Unix or MacOS run:
+On Unix, GNU/Linux and MacOS:
 ```
 source ./my-first-venv/bin/activate
 ```
