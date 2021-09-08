@@ -1,6 +1,6 @@
 # Mypy demonstration
 
-Run the following instructions in your terminal to ensure the provided [examples](https://github.com/ins4w/static-typing-python3/samples/) run as expected.
+Run the following instructions in your terminal to ensure the provided [examples](https://github.com/ins4w/static-typing-python3/tree/main/samples) run as expected.
 
 ## 1. Create a virtual enviroment 
 On windows:
