@@ -1,4 +1,4 @@
-# Static typing demonstration using mypy
+# Static typing demonstration using Mypy
 
 Run the following instructions in your terminal to ensure the examples run as expected.
 
