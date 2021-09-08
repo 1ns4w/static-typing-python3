@@ -1,4 +1,4 @@
-# Static typing demonstration
+# Mypy demonstration
 
 Run the following instructions in your terminal to ensure the examples run as expected.
 
