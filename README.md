@@ -2,7 +2,7 @@
 
 Run the following instructions in your terminal to ensure the provided [examples](https://github.com/ins4w/static-typing-python3/tree/main/samples) run as expected.
 
-## 1. Create a virtual enviroment 
+## 1. Create a Python virtual enviroment 
 On windows:
 ```
 python -m venv my-first-venv
