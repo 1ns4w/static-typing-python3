@@ -9,5 +9,5 @@ def sumTwoNumbers(n1: float, n2: float) -> float:
 Now that we have included data types, let's check
 if our program would run as we expect using mypy.
 """
-result: float =  sumTwoNumbers("Hello, ", "World!") # mypy will report this as an error because data types don't match with what we declared
+result: float =  sumTwoNumbers("Hello, ", "World!") # mypy will report this as an error because data types won't match with what we are declaring
 print(result)
